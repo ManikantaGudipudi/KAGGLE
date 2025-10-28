@@ -1,0 +1,39 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Large data files
+*.csv
+!sample_submission.csv
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.json
+
+# Logs
+*.log
+
